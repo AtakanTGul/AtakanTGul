@@ -1,16 +1,25 @@
-<p align="center"><img src="./assets/header.svg" alt="Atakan Taner Gül — Independent game developer" width="100%"></p>
+<p align="center"><img src="./assets/header.svg" alt="Atakan Taner Gül — Independent developer" width="100%"></p>
 
-<p align="center"><b>Independent game developer · Crimson Smile Games</b><br>Games with character. Systems with consequences. Small worlds worth exploring.</p>
+<p align="center"><b>Independent developer · Games, web & mobile apps</b><br>Interactive worlds. Social experiences. Useful everyday tools.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/BUILDING-GAMES%20%26%20DESKTOP%20EXPERIENCES-a78bfa?style=flat-square" alt="Games and desktop experiences"> <img src="https://img.shields.io/badge/TOOLS-UNITY%20%C2%B7%20GODOT%20%C2%B7%20C%23-30363d?style=flat-square" alt="Unity, Godot, C sharp"></p>
+<p align="center"><img src="https://img.shields.io/badge/BUILDING-GAMES%20%26%20APPLICATIONS-a78bfa?style=flat-square" alt="Games and applications"> <img src="https://img.shields.io/badge/TOOLS-UNITY%20%C2%B7%20GODOT%20%C2%B7%20FLUTTER-30363d?style=flat-square" alt="Unity, Godot, Flutter"></p>
 
 ## Hi, I'm Atakan.
 
-I build independent games and interactive desktop experiences. My projects explore meaningful choices, management systems, and characters that make a world feel alive.
+I build independent games, web experiences, and mobile applications. My work spans gameplay, social interaction, desktop companions, and useful everyday tools.
 
-My work ranges from medieval investigations and fantasy guilds to a tiny hunting adventure above the taskbar and a companion that lives on your desktop.
+Alongside my game projects under Crimson Smile Games, I work on projects such as Anime Savaşları, R Chat, Hobilo, and Decision Wheel.
 
-## Selected projects
+## Web & mobile applications
+
+| Project | Experience | Status |
+| :--- | :--- | :--- |
+| **[Anime Savaşları](https://github.com/AtakanTGul/anime-savaslari)** | A browser-based anime card game with team building, head-to-head card battles, and daily character challenges. [Visit website →](https://animesavaslari.com/) | Live website |
+| **[R Chat](https://github.com/AtakanTGul/r-chat)** | A social chat application bringing together user profiles, matching, room conversations, and community features. | In development · MVP |
+| **[Hobilo](https://github.com/AtakanTGul/hobilo)** | A mobile application designed to help people discover shared hobbies, organize activities, and find a group to join. | In development · Prototype |
+| **[Karar Çarkı / Decision Wheel](https://github.com/AtakanTGul/karar-carki)** | A customizable decision wheel for everyday choices, with animated spins, sound effects, and recent results. | In development · Release preparation |
+
+## Games & desktop experiences
 
 | Project | What I'm building | Development status |
 | :--- | :--- | :--- |
@@ -29,14 +38,14 @@ A kingdom's border. A desk full of papers. A decision that belongs to you.
 
 ## What I work with
 
-**Unity · Godot · C#**  
-Gameplay systems, desktop interaction, progression, investigation, and management experiences.
+**Unity · Godot · C# · Flutter · Dart · Firebase · HTML/CSS/JavaScript**  
+Gameplay systems, desktop interaction, social applications, mobile interfaces, and browser experiences.
 
 ## Merhaba, ben Atakan.
 
-Bağımsız oyunlar ve etkileşimli masaüstü deneyimleri geliştiriyorum. Kararların sonuçlarını hissettiren oyunlar, yaşayan karakterler ve yönetim sistemleri üzerinde çalışıyorum.
+Bağımsız oyunlar, web projeleri ve mobil uygulamalar geliştiriyorum. Oyunların yanında Anime Savaşları, R Chat, Hobilo ve Karar Çarkı gibi sosyal ve günlük kullanıma yönelik projeler üzerinde de çalışıyorum.
 
-Yukarıdaki projeler **geliştirme aşamasındadır**. Bu profil ve bağlantılı depolar projelerimi tanıtmak içindir; kaynak kodları ve üretim dosyaları paylaşılmaz.
+**Anime Savaşları yayındadır.** Diğer projelerin güncel geliştirme durumları tablolarda belirtilmiştir. Bu profil ve bağlantılı depolar projelerimi tanıtmak içindir; kaynak kodları ve üretim dosyaları paylaşılmaz.
 
 ---
 
