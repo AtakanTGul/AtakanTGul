@@ -2,7 +2,7 @@
 
 <p align="center"><b>Independent game developer · Crimson Smile Games</b><br>Games with character. Systems with consequences. Small worlds worth exploring.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/BUILDING-GAMES%20%26%20DESKTOP%20EXPERIENCES-a78bfa?style=flat-square" alt="Games and desktop experiences"> <img src="https://img.shields.io/badge/TOOLS-UNITY%20%C2%B7%20GODOT%20%C2%B7%20C%2523-30363d?style=flat-square" alt="Unity, Godot, C sharp"></p>
+<p align="center"><img src="https://img.shields.io/badge/BUILDING-GAMES%20%26%20DESKTOP%20EXPERIENCES-a78bfa?style=flat-square" alt="Games and desktop experiences"> <img src="https://img.shields.io/badge/TOOLS-UNITY%20%C2%B7%20GODOT%20%C2%B7%20C%23-30363d?style=flat-square" alt="Unity, Godot, C sharp"></p>
 
 ## Hi, I'm Atakan.
 
